@@ -1,0 +1,80 @@
+nav{
+    background-color: #02918c;
+}
+
+nav li a {
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+    color: white !important;
+    transition: 0.4s;
+}
+
+a{
+    text-decoration: none;
+}
+
+.dropdown-design li a {
+    color: black !important;
+}
+
+.contact{
+    color: white;
+}
+
+.contact:hover{
+    color: white !important;
+}
+
+ nav li a:hover{
+    color: #cfc91c !important;
+ }
+/* banner starts  */
+
+.banner{
+    background-image: url(../img/banner.png);;
+    height: 736px;
+    background-size: cover;
+}
+.bannercnt{
+    text-align: center;
+    padding-top: 250px;
+    
+}
+
+.bannercnt h3,h1,p{
+    color: white;
+}
+
+.bannercnt h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.bannercnt h1{
+    font-size: 64px;
+    font-weight: 700;
+    letter-spacing: 30px;
+}
+
+.bannercnt img{
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+.bannercnt a{
+    background-color: #cfc91c;
+    padding: 17px 24px;
+    border-radius: 5px;
+    font-size: 19px;
+   color: black;
+   transition: 0.4s;
+}
+
+.bannercnt a:hover{
+    color: white;
+    letter-spacing: 5px;
+}
+
+/* banner ends */
